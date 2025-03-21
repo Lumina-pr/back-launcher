@@ -1,6 +1,8 @@
 [submodule "auth-ms"]
 	path = auth-ms
 	url = git@github.com:Lumina-pr/auth-ms.git
+	brach = dev
 [submodule "client-gateway"]
 	path = client-gateway
 	url = git@github.com:Lumina-pr/client-gateway.git
+	brach = dev
